@@ -1,4 +1,4 @@
-Explorer Like so (original) - Advanced DOM Explorer 
+#Explorer Like so (original) - Advanced DOM Explorer 
 
 An advanced DOM explorer userscript with themes, CSS editor, console, performance monitor, accessibility checker, responsive tester, and color picker. 
 Features 
