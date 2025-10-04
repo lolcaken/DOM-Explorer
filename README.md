@@ -83,9 +83,6 @@ Version
      v13.0: The current stable version, featuring a comprehensive suite of web development tools.
      
 
-License 
-
-This userscript is released under the MIT License. 
 Support 
 
 This is a complex script. If you encounter bugs or have suggestions for features, please check the original source for an issue tracker or forum to provide feedback. 
